@@ -116,6 +116,7 @@
  needn't need+not
  nobody_'s nobody+is
  nothing_'s nothing+is
+ now_'s now+is
  o'er over
  oughtn't ought+not
  sha'n't shall+not
@@ -135,7 +136,7 @@
  t'other the+other
  t'was'nt it+was+not
  t'was it+was
- that'd that+'d
+ that'd that+would
  that'll that+will
  that'll_'ve that+will+have
  that_'s that+is
